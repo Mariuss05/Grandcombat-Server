@@ -1,0 +1,1 @@
+java -Xms32G -Xmx32G -jar paper-1.20.1-81.jar --nogui

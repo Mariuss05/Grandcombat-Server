@@ -1,0 +1,162 @@
+[00:19:54] [Server thread/INFO]: /213.136.71.218:44984 lost connection: Internal Exception: io.netty.handler.codec.DecoderException: java.io.IOException: Packet 2/0 (PacketLoginInStart) was larger than I expected, found 1 bytes extra whilst reading packet 0
+[00:53:00] [Craft Scheduler Thread - 3384 - HeadDB/INFO]: HeadDB >> [INFO]: Fetched: 54324 Heads | Provider: HEAD_STORAGE | Time: 638ms (0s)
+[01:03:11] [Server thread/INFO]: /213.136.71.218:57978 lost connection: Internal Exception: io.netty.handler.codec.DecoderException: java.io.IOException: Packet 2/0 (PacketLoginInStart) was larger than I expected, found 1 bytes extra whilst reading packet 0
+[01:46:28] [Server thread/INFO]: /213.136.71.218:42706 lost connection: Internal Exception: io.netty.handler.codec.DecoderException: java.io.IOException: Packet 2/0 (PacketLoginInStart) was larger than I expected, found 1 bytes extra whilst reading packet 0
+[02:05:00] [Craft Scheduler Thread - 3524 - HeadDB/INFO]: HeadDB >> [INFO]: Fetched: 54324 Heads | Provider: HEAD_STORAGE | Time: 513ms (0s)
+[02:29:47] [Server thread/INFO]: /213.136.71.218:55634 lost connection: Internal Exception: io.netty.handler.codec.DecoderException: java.io.IOException: Packet 2/0 (PacketLoginInStart) was larger than I expected, found 1 bytes extra whilst reading packet 0
+[03:13:04] [Server thread/INFO]: /213.136.71.218:40376 lost connection: Internal Exception: io.netty.handler.codec.DecoderException: java.io.IOException: Packet 2/0 (PacketLoginInStart) was larger than I expected, found 1 bytes extra whilst reading packet 0
+[03:17:00] [Craft Scheduler Thread - 3668 - HeadDB/INFO]: HeadDB >> [INFO]: Fetched: 54393 Heads | Provider: HEAD_STORAGE | Time: 488ms (0s)
+[03:56:19] [Server thread/INFO]: /213.136.71.218:53312 lost connection: Internal Exception: io.netty.handler.codec.DecoderException: java.io.IOException: Packet 2/0 (PacketLoginInStart) was larger than I expected, found 1 bytes extra whilst reading packet 0
+[04:29:00] [Craft Scheduler Thread - 3815 - HeadDB/INFO]: HeadDB >> [INFO]: Fetched: 54393 Heads | Provider: HEAD_STORAGE | Time: 634ms (0s)
+[04:39:40] [Server thread/INFO]: /213.136.71.218:38048 lost connection: Internal Exception: io.netty.handler.codec.DecoderException: java.io.IOException: Packet 2/0 (PacketLoginInStart) was larger than I expected, found 1 bytes extra whilst reading packet 0
+[04:49:27] [Server thread/INFO]: com.mojang.authlib.GameProfile@2882880f[id=<null>,name=Bunger,properties={},legacy=false] (/147.28.173.143:49400) lost connection: Disconnected
+[05:22:55] [Server thread/INFO]: /213.136.71.218:51050 lost connection: Internal Exception: io.netty.handler.codec.DecoderException: java.io.IOException: Packet 2/0 (PacketLoginInStart) was larger than I expected, found 1 bytes extra whilst reading packet 0
+[05:41:00] [Craft Scheduler Thread - 3958 - HeadDB/INFO]: HeadDB >> [INFO]: Fetched: 54393 Heads | Provider: HEAD_STORAGE | Time: 543ms (0s)
+[06:06:12] [Server thread/INFO]: /213.136.71.218:35796 lost connection: Internal Exception: io.netty.handler.codec.DecoderException: java.io.IOException: Packet 2/0 (PacketLoginInStart) was larger than I expected, found 1 bytes extra whilst reading packet 0
+[06:49:26] [Server thread/INFO]: /213.136.71.218:48790 lost connection: Internal Exception: io.netty.handler.codec.DecoderException: java.io.IOException: Packet 2/0 (PacketLoginInStart) was larger than I expected, found 1 bytes extra whilst reading packet 0
+[06:53:00] [Craft Scheduler Thread - 4107 - HeadDB/INFO]: HeadDB >> [INFO]: Fetched: 54393 Heads | Provider: HEAD_STORAGE | Time: 602ms (0s)
+[07:32:44] [Server thread/INFO]: /213.136.71.218:33482 lost connection: Internal Exception: io.netty.handler.codec.DecoderException: java.io.IOException: Packet 2/0 (PacketLoginInStart) was larger than I expected, found 1 bytes extra whilst reading packet 0
+[08:05:00] [Craft Scheduler Thread - 4251 - HeadDB/INFO]: HeadDB >> [INFO]: Fetched: 54393 Heads | Provider: HEAD_STORAGE | Time: 715ms (0s)
+[08:16:06] [Server thread/INFO]: /213.136.71.218:46424 lost connection: Internal Exception: io.netty.handler.codec.DecoderException: java.io.IOException: Packet 2/0 (PacketLoginInStart) was larger than I expected, found 1 bytes extra whilst reading packet 0
+[08:50:05] [Server thread/INFO]: Stopping server
+[08:50:05] [Server thread/INFO]: [Multiverse-Core] Disabling Multiverse-Core v4.3.1-b861
+[08:50:05] [Server thread/INFO]: [spark] Disabling spark v1.10.34
+[08:50:05] [Server thread/INFO]: [GrandHousing] Disabling GrandHousing vPaper-1.20.1-Snapshot-1.0.2
+[08:50:05] [Server thread/INFO]: [LuckPerms] Disabling LuckPerms v5.4.98
+[08:50:05] [Server thread/INFO]: [LuckPerms] Starting shutdown process...
+[08:50:05] [Server thread/INFO]: [LuckPerms] Closing storage...
+[08:50:05] [Server thread/INFO]: [LuckPerms] Goodbye!
+[08:50:05] [Server thread/INFO]: [Geyser-Spigot] Disabling Geyser-Spigot v2.1.2-SNAPSHOT
+[08:50:05] [Server thread/INFO]: [Geyser-Spigot] Shutting down Geyser.
+[08:50:05] [Server thread/INFO]: [Geyser-Spigot] Geyser shutdown successfully.
+[08:50:05] [WebSocketConnectReadThread-872/INFO]: [Geyser-Spigot] The skin uploader has been closed
+[08:50:05] [Server thread/INFO]: [FastAsyncVoxelSniper] Disabling FastAsyncVoxelSniper v2.9.1
+[08:50:05] [Server thread/INFO]: [HeadDB] Disabling HeadDB v5.0.0-rc.6
+[08:50:05] [Server thread/INFO]: [ViaBackwards] Disabling ViaBackwards v4.7.0
+[08:50:05] [Server thread/INFO]: [Colored Signs] Disabling ColoredSigns v6.2.1.212
+[08:50:05] [Server thread/INFO]: &cColored Signs is now disabled!
+[08:50:05] [Server thread/INFO]: [WorldGuard] Disabling WorldGuard v7.0.9-beta1+2249-223b80c
+[08:50:05] [Server thread/INFO]: [WorldGuard] Shutting down executor and cancelling any pending tasks...
+[08:50:05] [Server thread/INFO]: [GrandCombat] Disabling GrandCombat vPaper-1.20.1-Snapshot-1.0.78
+[08:50:05] [Server thread/INFO]: [GrandCore]
+[08:50:05] [Server thread/INFO]: [GrandCore] Das System wurde gestoppt!
+[08:50:05] [Server thread/INFO]: [GrandCore]
+[08:50:05] [Server thread/INFO]: [GrandCord] Disabling GrandCord vPaper-1.20.1-Snapshot-1.1.1
+[08:50:05] [Server thread/WARN]: java.io.FileNotFoundException: ./plugins/GrandCord (Is a directory)
+[08:50:05] [Server thread/WARN]: 	at java.base/java.io.FileOutputStream.open0(Native Method)
+[08:50:05] [Server thread/WARN]: 	at java.base/java.io.FileOutputStream.open(FileOutputStream.java:295)
+[08:50:05] [Server thread/WARN]: 	at java.base/java.io.FileOutputStream.<init>(FileOutputStream.java:236)
+[08:50:05] [Server thread/WARN]: 	at java.base/java.io.FileOutputStream.<init>(FileOutputStream.java:185)
+[08:50:05] [Server thread/WARN]: 	at org.bukkit.configuration.file.FileConfiguration.save(FileConfiguration.java:67)
+[08:50:05] [Server thread/WARN]: 	at GrandCord-Paper-1.20.1-Snapshot-1.1.1.jar//de.kotzi.grandcord.util.ConfigManager.saveConfig(ConfigManager.java:36)
+[08:50:05] [Server thread/WARN]: 	at GrandCord-Paper-1.20.1-Snapshot-1.1.1.jar//de.kotzi.grandcord.Main.onDisable(Main.java:74)
+[08:50:05] [Server thread/WARN]: 	at org.bukkit.plugin.java.JavaPlugin.setEnabled(JavaPlugin.java:283)
+[08:50:05] [Server thread/WARN]: 	at io.papermc.paper.plugin.manager.PaperPluginInstanceManager.disablePlugin(PaperPluginInstanceManager.java:224)
+[08:50:05] [Server thread/WARN]: 	at io.papermc.paper.plugin.manager.PaperPluginInstanceManager.disablePlugins(PaperPluginInstanceManager.java:148)
+[08:50:05] [Server thread/WARN]: 	at io.papermc.paper.plugin.manager.PaperPluginManagerImpl.disablePlugins(PaperPluginManagerImpl.java:92)
+[08:50:05] [Server thread/WARN]: 	at org.bukkit.plugin.SimplePluginManager.disablePlugins(SimplePluginManager.java:528)
+[08:50:05] [Server thread/WARN]: 	at org.bukkit.craftbukkit.v1_20_R1.CraftServer.disablePlugins(CraftServer.java:570)
+[08:50:05] [Server thread/WARN]: 	at net.minecraft.server.MinecraftServer.t(MinecraftServer.java:943)
+[08:50:05] [Server thread/WARN]: 	at net.minecraft.server.dedicated.DedicatedServer.t(DedicatedServer.java:806)
+[08:50:05] [Server thread/WARN]: 	at net.minecraft.server.MinecraftServer.w(MinecraftServer.java:1210)
+[08:50:05] [Server thread/WARN]: 	at net.minecraft.server.MinecraftServer.lambda$spin$0(MinecraftServer.java:318)
+[08:50:05] [Server thread/WARN]: 	at java.base/java.lang.Thread.run(Thread.java:1623)
+[08:50:05] [Server thread/INFO]: [floodgate] Disabling floodgate v2.2.2-SNAPSHOT (b59-2278589)
+[08:50:05] [JDA RateLimit-Worker 5/ERROR]: [net.dv8tion.jda.internal.requests.Requester] There was an unexpected error while executing a REST request
+java.lang.IllegalStateException: zip file closed
+	at java.util.zip.ZipFile.ensureOpen(ZipFile.java:838) ~[?:?]
+	at java.util.zip.ZipFile.getEntry(ZipFile.java:330) ~[?:?]
+	at java.util.jar.JarFile.getEntry(JarFile.java:511) ~[?:?]
+	at java.util.jar.JarFile.getJarEntry(JarFile.java:466) ~[?:?]
+	at io.papermc.paper.plugin.entrypoint.classloader.PaperSimplePluginClassLoader.findClass(PaperSimplePluginClassLoader.java:62) ~[paper-1.20.1.jar:git-Paper-81]
+	at java.lang.ClassLoader.loadClass(ClassLoader.java:588) ~[?:?]
+	at io.papermc.paper.plugin.entrypoint.classloader.PaperPluginClassLoader.loadClass(PaperPluginClassLoader.java:114) ~[paper-1.20.1.jar:git-Paper-81]
+	at io.papermc.paper.plugin.entrypoint.classloader.PaperPluginClassLoader.loadClass(PaperPluginClassLoader.java:103) ~[paper-1.20.1.jar:git-Paper-81]
+	at java.lang.ClassLoader.loadClass(ClassLoader.java:521) ~[?:?]
+	at okhttp3.internal.connection.ExchangeFinder.trackFailure(ExchangeFinder.kt:261) ~[GrandCord-Paper-1.20.1-Snapshot-1.1.1.jar:?]
+	at okhttp3.internal.connection.ExchangeFinder.find(ExchangeFinder.kt:84) ~[GrandCord-Paper-1.20.1-Snapshot-1.1.1.jar:?]
+	at okhttp3.internal.connection.RealCall.initExchange$okhttp(RealCall.kt:255) ~[GrandCord-Paper-1.20.1-Snapshot-1.1.1.jar:?]
+	at okhttp3.internal.connection.ConnectInterceptor.intercept(ConnectInterceptor.kt:32) ~[GrandCord-Paper-1.20.1-Snapshot-1.1.1.jar:?]
+	at okhttp3.internal.http.RealInterceptorChain.proceed(RealInterceptorChain.kt:109) ~[GrandCord-Paper-1.20.1-Snapshot-1.1.1.jar:?]
+	at okhttp3.internal.cache.CacheInterceptor.intercept(CacheInterceptor.kt:95) ~[GrandCord-Paper-1.20.1-Snapshot-1.1.1.jar:?]
+	at okhttp3.internal.http.RealInterceptorChain.proceed(RealInterceptorChain.kt:109) ~[GrandCord-Paper-1.20.1-Snapshot-1.1.1.jar:?]
+	at okhttp3.internal.http.BridgeInterceptor.intercept(BridgeInterceptor.kt:83) ~[GrandCord-Paper-1.20.1-Snapshot-1.1.1.jar:?]
+	at okhttp3.internal.http.RealInterceptorChain.proceed(RealInterceptorChain.kt:109) ~[GrandCord-Paper-1.20.1-Snapshot-1.1.1.jar:?]
+	at okhttp3.internal.http.RetryAndFollowUpInterceptor.intercept(RetryAndFollowUpInterceptor.kt:76) ~[GrandCord-Paper-1.20.1-Snapshot-1.1.1.jar:?]
+	at okhttp3.internal.http.RealInterceptorChain.proceed(RealInterceptorChain.kt:109) ~[GrandCord-Paper-1.20.1-Snapshot-1.1.1.jar:?]
+	at okhttp3.internal.connection.RealCall.getResponseWithInterceptorChain$okhttp(RealCall.kt:201) ~[GrandCord-Paper-1.20.1-Snapshot-1.1.1.jar:?]
+	at okhttp3.internal.connection.RealCall.execute(RealCall.kt:154) ~[GrandCord-Paper-1.20.1-Snapshot-1.1.1.jar:?]
+	at net.dv8tion.jda.internal.requests.Requester.execute(Requester.java:190) ~[GrandCord-Paper-1.20.1-Snapshot-1.1.1.jar:?]
+	at net.dv8tion.jda.internal.requests.Requester.execute(Requester.java:145) ~[GrandCord-Paper-1.20.1-Snapshot-1.1.1.jar:?]
+	at net.dv8tion.jda.internal.requests.Requester.execute(Requester.java:128) ~[GrandCord-Paper-1.20.1-Snapshot-1.1.1.jar:?]
+	at net.dv8tion.jda.internal.requests.Requester$WorkTask.execute(Requester.java:378) ~[GrandCord-Paper-1.20.1-Snapshot-1.1.1.jar:?]
+	at net.dv8tion.jda.api.requests.SequentialRestRateLimiter$Bucket.execute(SequentialRestRateLimiter.java:446) ~[GrandCord-Paper-1.20.1-Snapshot-1.1.1.jar:?]
+	at net.dv8tion.jda.api.requests.SequentialRestRateLimiter$Bucket.run(SequentialRestRateLimiter.java:490) ~[GrandCord-Paper-1.20.1-Snapshot-1.1.1.jar:?]
+	at java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:577) ~[?:?]
+	at java.util.concurrent.FutureTask.run(FutureTask.java:317) ~[?:?]
+	at java.util.concurrent.ScheduledThreadPoolExecutor$ScheduledFutureTask.run(ScheduledThreadPoolExecutor.java:304) ~[?:?]
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1144) ~[?:?]
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:642) ~[?:?]
+	at java.lang.Thread.run(Thread.java:1623) ~[?:?]
+[08:50:05] [Server thread/INFO]: [ViaVersion] Disabling ViaVersion v4.7.0
+[08:50:05] [Server thread/INFO]: [ViaVersion] ViaVersion is disabling, if this is a reload and you experience issues consider rebooting.
+[08:50:05] [JDA RateLimit-Worker 5/ERROR]: [net.dv8tion.jda.api.requests.RestRateLimiter] Encountered exception trying to execute request
+java.lang.IllegalStateException: zip file closed
+	at java.util.zip.ZipFile.ensureOpen(ZipFile.java:838) ~[?:?]
+	at java.util.zip.ZipFile.getEntry(ZipFile.java:330) ~[?:?]
+	at java.util.jar.JarFile.getEntry(JarFile.java:511) ~[?:?]
+	at java.util.jar.JarFile.getJarEntry(JarFile.java:466) ~[?:?]
+	at io.papermc.paper.plugin.entrypoint.classloader.PaperSimplePluginClassLoader.findClass(PaperSimplePluginClassLoader.java:62) ~[paper-1.20.1.jar:git-Paper-81]
+	at java.lang.ClassLoader.loadClass(ClassLoader.java:588) ~[?:?]
+	at io.papermc.paper.plugin.entrypoint.classloader.PaperPluginClassLoader.loadClass(PaperPluginClassLoader.java:114) ~[paper-1.20.1.jar:git-Paper-81]
+	at io.papermc.paper.plugin.entrypoint.classloader.PaperPluginClassLoader.loadClass(PaperPluginClassLoader.java:103) ~[paper-1.20.1.jar:git-Paper-81]
+	at java.lang.ClassLoader.loadClass(ClassLoader.java:521) ~[?:?]
+	at net.dv8tion.jda.api.requests.Request.onFailure(Request.java:139) ~[GrandCord-Paper-1.20.1-Snapshot-1.1.1.jar:?]
+	at net.dv8tion.jda.internal.requests.RestActionImpl.handleResponse(RestActionImpl.java:281) ~[GrandCord-Paper-1.20.1-Snapshot-1.1.1.jar:?]
+	at net.dv8tion.jda.api.requests.Request.handleResponse(Request.java:283) ~[GrandCord-Paper-1.20.1-Snapshot-1.1.1.jar:?]
+	at net.dv8tion.jda.internal.requests.Requester$WorkTask.handleResponse(Requester.java:420) ~[GrandCord-Paper-1.20.1-Snapshot-1.1.1.jar:?]
+	at net.dv8tion.jda.internal.requests.Requester$WorkTask.access$400(Requester.java:350) ~[GrandCord-Paper-1.20.1-Snapshot-1.1.1.jar:?]
+	at net.dv8tion.jda.internal.requests.Requester.execute(Requester.java:272) ~[GrandCord-Paper-1.20.1-Snapshot-1.1.1.jar:?]
+	at net.dv8tion.jda.internal.requests.Requester.execute(Requester.java:145) ~[GrandCord-Paper-1.20.1-Snapshot-1.1.1.jar:?]
+	at net.dv8tion.jda.internal.requests.Requester.execute(Requester.java:128) ~[GrandCord-Paper-1.20.1-Snapshot-1.1.1.jar:?]
+	at net.dv8tion.jda.internal.requests.Requester$WorkTask.execute(Requester.java:378) ~[GrandCord-Paper-1.20.1-Snapshot-1.1.1.jar:?]
+	at net.dv8tion.jda.api.requests.SequentialRestRateLimiter$Bucket.execute(SequentialRestRateLimiter.java:446) ~[GrandCord-Paper-1.20.1-Snapshot-1.1.1.jar:?]
+	at net.dv8tion.jda.api.requests.SequentialRestRateLimiter$Bucket.run(SequentialRestRateLimiter.java:490) ~[GrandCord-Paper-1.20.1-Snapshot-1.1.1.jar:?]
+	at java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:577) ~[?:?]
+	at java.util.concurrent.FutureTask.run(FutureTask.java:317) ~[?:?]
+	at java.util.concurrent.ScheduledThreadPoolExecutor$ScheduledFutureTask.run(ScheduledThreadPoolExecutor.java:304) ~[?:?]
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1144) ~[?:?]
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:642) ~[?:?]
+	at java.lang.Thread.run(Thread.java:1623) ~[?:?]
+[08:50:05] [Server thread/INFO]: [FastAsyncWorldEdit] Disabling FastAsyncWorldEdit v2.7.1-SNAPSHOT-538;48be6ac
+[08:50:05] [Server thread/INFO]: Unregistering com.sk89q.worldedit.bukkit.BukkitServerInterface from WorldEdit
+[08:50:05] [Server thread/INFO]: Saving players
+[08:50:05] [Server thread/INFO]: Saving worlds
+[08:50:05] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[08:50:05] [Server thread/INFO]: [ChunkHolderManager] Waiting 60s for chunk system to halt for world 'world'
+[08:50:05] [Server thread/INFO]: [ChunkHolderManager] Halted chunk system for world 'world'
+[08:50:05] [Server thread/INFO]: [ChunkHolderManager] Saving all chunkholders for world 'world'
+[08:50:05] [Server thread/INFO]: [ChunkHolderManager] Saved 2 block chunks, 1 entity chunks, 0 poi chunks in world 'world' in 0.04s
+[08:50:05] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[08:50:05] [Server thread/INFO]: Saving chunks for level 'ServerLevel[spawn]'/minecraft:spawn
+[08:50:05] [Server thread/INFO]: [ChunkHolderManager] Waiting 60s for chunk system to halt for world 'spawn'
+[08:50:05] [Server thread/INFO]: [ChunkHolderManager] Halted chunk system for world 'spawn'
+[08:50:05] [Server thread/INFO]: [ChunkHolderManager] Saving all chunkholders for world 'spawn'
+[08:50:05] [Server thread/INFO]: [ChunkHolderManager] Saved 0 block chunks, 0 entity chunks, 0 poi chunks in world 'spawn' in 0.00s
+[08:50:05] [Server thread/INFO]: ThreadedAnvilChunkStorage (spawn): All chunks are saved
+[08:50:05] [Server thread/INFO]: Saving chunks for level 'ServerLevel[schematics]'/minecraft:schematics
+[08:50:05] [Server thread/INFO]: [ChunkHolderManager] Waiting 60s for chunk system to halt for world 'schematics'
+[08:50:05] [Server thread/INFO]: [ChunkHolderManager] Halted chunk system for world 'schematics'
+[08:50:05] [Server thread/INFO]: [ChunkHolderManager] Saving all chunkholders for world 'schematics'
+[08:50:05] [Server thread/INFO]: [ChunkHolderManager] Saved 0 block chunks, 9 entity chunks, 0 poi chunks in world 'schematics' in 0.01s
+[08:50:05] [Server thread/INFO]: ThreadedAnvilChunkStorage (schematics): All chunks are saved
+[08:50:05] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world_old]'/minecraft:world_old
+[08:50:05] [Server thread/INFO]: [ChunkHolderManager] Waiting 60s for chunk system to halt for world 'world_old'
+[08:50:05] [Server thread/INFO]: [ChunkHolderManager] Halted chunk system for world 'world_old'
+[08:50:05] [Server thread/INFO]: [ChunkHolderManager] Saving all chunkholders for world 'world_old'
+[08:50:05] [Server thread/INFO]: [ChunkHolderManager] Saved 0 block chunks, 0 entity chunks, 0 poi chunks in world 'world_old' in 0.00s
+[08:50:05] [Server thread/INFO]: ThreadedAnvilChunkStorage (world_old): All chunks are saved
+[08:50:05] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
+[08:50:05] [Server thread/INFO]: Flushing Chunk IO
+[08:50:05] [Server thread/INFO]: Closing Thread Pool
+[08:50:05] [Server thread/INFO]: Closing Server

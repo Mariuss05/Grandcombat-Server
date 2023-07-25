@@ -1,0 +1,36 @@
+spawn:
+  x: 0
+  y: 31
+  z: 0
+world:
+  ==: org.bukkit.Location
+  world: world
+  x: 817.6999999880791
+  y: 91.0
+  z: 282.69999998807907
+  pitch: 32.399963
+  yaw: 97.28656
+plants:
+  ==: org.bukkit.Location
+  world: world
+  x: 74.41656513864159
+  y: 138.0
+  z: -18.33432948048898
+  pitch: 52.367985
+  yaw: 130.66608
+test:
+  ==: org.bukkit.Location
+  world: world
+  x: 54.50851137312322
+  y: 138.0
+  z: -34.49748439104417
+  pitch: 11.267913
+  yaw: 177.01538
+'1':
+  ==: org.bukkit.Location
+  world: world
+  x: 53.92815306815222
+  y: 138.0
+  z: -45.69318063285973
+  pitch: 11.267913
+  yaw: 177.01538
