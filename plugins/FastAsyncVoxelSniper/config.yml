@@ -33,7 +33,7 @@ brush-properties:
   Clone Stamp:
     default-stamp-type: DEFAULT
   Copy Pasta:
-    block-limit: 10000
+    block-limit: 100000
   Ellipse:
     scl-min: 1
     scl-max: 9999
